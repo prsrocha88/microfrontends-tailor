@@ -1,0 +1,5 @@
+content/dist/
+content/node_modules/
+header/dist/
+header/node_modules/
+tailor/node_modules/
